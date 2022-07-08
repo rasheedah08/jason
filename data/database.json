@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Dagger",
+      "price": 99.99,
+      "img_url": "https://picsum.photos/600?random=1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam in veniam obcaecati tenetur magni animi, iusto quae nisi rerum porro voluptas eaque vel culpa. Sed sequi ut velit praesentium impedit.",
+      "category": "weapon"
+    },
+    {
+      "title": "Cheap Change",
+      "price": 0.01,
+      "img_url": "https://picsum.photos/600?random=1",
+      "description": "This was changed, now its cheap",
+      "category": "change",
+      "id": 2
+    },
+    {
+      "title": "Cheap Change",
+      "price": 0.01,
+      "img_url": "https://picsum.photos/600?random=1",
+      "description": "This was changed, now its cheap",
+      "category": "change",
+      "id": 3
+    },
+    {
+      "title": "Cheap Change",
+      "price": 0.01,
+      "img_url": "https://picsum.photos/600?random=1",
+      "description": "This was changed, now its cheap",
+      "category": "change",
+      "id": 4
+    },
+    {
+      "title": "Cheap Change",
+      "price": 0.01,
+      "img_url": "https://picsum.photos/600?random=1",
+      "description": "This was changed, now its cheap",
+      "category": "change",
+      "id": 5
+    },
+    {
+      "title": "Cheap Change",
+      "price": 0.01,
+      "img_url": "https://picsum.photos/600?random=1",
+      "description": "This was changed, now its cheap",
+      "category": "change",
+      "id": 6
+    },
+    {
+      "title": "Cheap Change",
+      "price": 0.01,
+      "img_url": "https://picsum.photos/600?random=1",
+      "description": "This was changed, now its cheap",
+      "category": "change",
+      "id": 7
+    }
+  ],
+  "users": []
+}
